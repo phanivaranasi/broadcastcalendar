@@ -1,0 +1,17 @@
+.weekdays{
+    font-size:12px;
+    
+}
+.week{
+    float:left; 
+    list-style: none;
+    margin:5px;
+}
+
+.month-wrapper{
+    position: absolute;
+border:solid 1px red;
+margin:5px;
+padding:5px;
+visibility: hidden;
+}
